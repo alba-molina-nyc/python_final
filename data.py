@@ -29,9 +29,9 @@ for day, name in sorted(holidays.US(years=2023, state='CA').items()):
 us_holidays = holidays.UnitedStates()
 uk_holidays = holidays.UnitedKingdom()
 fr_holidays = holidays.France()
-print('01-01-2022' in us_holidays)
-print('01-01-2022' in uk_holidays)
-print('01-01-2022' in fr_holidays)
+# print('01-01-2022' in us_holidays)
+# print('01-01-2022' in uk_holidays)
+# print('01-01-2022' in fr_holidays)
 
 # create holiday list
 
@@ -56,8 +56,13 @@ df.to_csv('/Users/albamolina/files/python_final/ex1_holidays.csv')
 
 df = pd.read_csv('ex1_holidays.csv')
 
-df.rename(columns = {'Unnamed: 0': 'Counter', '0': 'Date', '1': 'Holiday Name'}, inplace=True) #old name, new name inplace=True -> want ocur in place
-print(df.head)
-print('columns: ', df.columns)
+df.rename(columns = {'Unnamed: 0': 'counter', '0': 'date', '1': 'holiday_name'}, inplace=True) #old name, new name inplace=True -> want ocur in place
+
+plt.plot(df.counter, df.holiday_name)
+
+plt.show()
+
+# print(df.head)
+# print('columns: ', df.columns)
 
 # print('here: ', df)
