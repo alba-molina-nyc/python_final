@@ -1,6 +1,7 @@
 import holidays
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 from datetime import date
 
 
@@ -32,6 +33,20 @@ print('01-01-2022' in us_holidays)
 print('01-01-2022' in uk_holidays)
 print('01-01-2022' in fr_holidays)
 
-for country in countries:
-    countries.country
-    # print(type(country), 'country-type')
+# create holiday list
+
+holiday_list = [] #initialize empty list
+for yrs in range(2009,2023):
+    for item in holidays.UnitedStates(years=yrs).items():
+        holiday_list.append(item)
+    for item in holidays.UnitedKingdom(years=yrs).items():
+        holiday_list.append(item)
+    for item in holidays.France(years=yrs).items():
+        holiday_list.append(item)
+
+
+# create a data frame from holiday list
+df = pd.DataFrame(holiday_list)
+
+# save dataframe to csv file
+df.to_csv('/Users/albamolina/files/python_final/ex1_holidays.csv')

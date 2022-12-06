@@ -1,0 +1,525 @@
+,0,1
+0,2009-01-01,New Year's Day
+1,2009-01-19,Martin Luther King Jr. Day
+2,2009-02-16,Washington's Birthday
+3,2009-05-25,Memorial Day
+4,2009-07-04,Independence Day
+5,2009-07-03,Independence Day (Observed)
+6,2009-09-07,Labor Day
+7,2009-10-12,Columbus Day
+8,2009-11-11,Veterans Day
+9,2009-11-26,Thanksgiving
+10,2009-12-25,Christmas Day
+11,2009-01-01,New Year's Day
+12,2009-01-02,New Year Holiday [Scotland]
+13,2009-03-17,St. Patrick's Day [Northern Ireland]
+14,2009-07-12,Battle of the Boyne [Northern Ireland]
+15,2009-08-03,Summer Bank Holiday [Scotland]
+16,2009-11-30,St. Andrew's Day [Scotland]
+17,2009-12-25,Christmas Day
+18,2009-04-10,Good Friday
+19,2009-04-13,Easter Monday [England/Wales/Northern Ireland]
+20,2009-05-04,May Day
+21,2009-05-25,Spring Bank Holiday
+22,2009-08-31,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+23,2009-12-26,Boxing Day
+24,2009-12-28,Boxing Day (Observed)
+25,2009-01-01,Jour de l'an
+26,2009-05-01,Fête du Travail
+27,2009-05-08,Armistice 1945
+28,2009-07-14,Fête nationale
+29,2009-11-11,Armistice 1918
+30,2009-04-13,Lundi de Pâques
+31,2009-06-01,Lundi de Pentecôte
+32,2009-05-21,Ascension
+33,2009-08-15,Assomption
+34,2009-11-01,Toussaint
+35,2009-12-25,Noël
+36,2010-01-01,New Year's Day
+37,2010-12-31,New Year's Day (Observed)
+38,2010-01-18,Martin Luther King Jr. Day
+39,2010-02-15,Washington's Birthday
+40,2010-05-31,Memorial Day
+41,2010-07-04,Independence Day
+42,2010-07-05,Independence Day (Observed)
+43,2010-09-06,Labor Day
+44,2010-10-11,Columbus Day
+45,2010-11-11,Veterans Day
+46,2010-11-25,Thanksgiving
+47,2010-12-25,Christmas Day
+48,2010-12-24,Christmas Day (Observed)
+49,2010-01-01,New Year's Day
+50,2010-01-02,New Year Holiday [Scotland]
+51,2010-01-04,New Year Holiday [Scotland] (Observed)
+52,2010-03-17,St. Patrick's Day [Northern Ireland]
+53,2010-07-12,Battle of the Boyne [Northern Ireland]
+54,2010-08-02,Summer Bank Holiday [Scotland]
+55,2010-11-30,St. Andrew's Day [Scotland]
+56,2010-12-25,Christmas Day
+57,2010-12-27,Christmas Day (Observed)
+58,2010-04-02,Good Friday
+59,2010-04-05,Easter Monday [England/Wales/Northern Ireland]
+60,2010-05-03,May Day
+61,2010-05-31,Spring Bank Holiday
+62,2010-08-30,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+63,2010-12-26,Boxing Day
+64,2010-12-28,Boxing Day (Observed)
+65,2010-01-01,Jour de l'an
+66,2010-05-01,Fête du Travail
+67,2010-05-08,Armistice 1945
+68,2010-07-14,Fête nationale
+69,2010-11-11,Armistice 1918
+70,2010-04-05,Lundi de Pâques
+71,2010-05-24,Lundi de Pentecôte
+72,2010-05-13,Ascension
+73,2010-08-15,Assomption
+74,2010-11-01,Toussaint
+75,2010-12-25,Noël
+76,2011-01-01,New Year's Day
+77,2011-01-17,Martin Luther King Jr. Day
+78,2011-02-21,Washington's Birthday
+79,2011-05-30,Memorial Day
+80,2011-07-04,Independence Day
+81,2011-09-05,Labor Day
+82,2011-10-10,Columbus Day
+83,2011-11-11,Veterans Day
+84,2011-11-24,Thanksgiving
+85,2011-12-25,Christmas Day
+86,2011-12-26,Christmas Day (Observed)
+87,2011-04-29,Wedding of William and Catherine
+88,2011-01-01,New Year's Day
+89,2011-01-03,New Year's Day (Observed)
+90,2011-01-02,New Year Holiday [Scotland]
+91,2011-01-04,New Year Holiday [Scotland] (Observed)
+92,2011-03-17,St. Patrick's Day [Northern Ireland]
+93,2011-07-12,Battle of the Boyne [Northern Ireland]
+94,2011-08-01,Summer Bank Holiday [Scotland]
+95,2011-11-30,St. Andrew's Day [Scotland]
+96,2011-12-25,Christmas Day
+97,2011-12-27,Christmas Day (Observed)
+98,2011-04-22,Good Friday
+99,2011-04-25,Easter Monday [England/Wales/Northern Ireland]
+100,2011-05-02,May Day
+101,2011-05-30,Spring Bank Holiday
+102,2011-08-29,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+103,2011-12-26,Boxing Day
+104,2011-01-01,Jour de l'an
+105,2011-05-01,Fête du Travail
+106,2011-05-08,Armistice 1945
+107,2011-07-14,Fête nationale
+108,2011-11-11,Armistice 1918
+109,2011-04-25,Lundi de Pâques
+110,2011-06-13,Lundi de Pentecôte
+111,2011-06-02,Ascension
+112,2011-08-15,Assomption
+113,2011-11-01,Toussaint
+114,2011-12-25,Noël
+115,2012-01-01,New Year's Day
+116,2012-01-02,New Year's Day (Observed)
+117,2012-01-16,Martin Luther King Jr. Day
+118,2012-02-20,Washington's Birthday
+119,2012-05-28,Memorial Day
+120,2012-07-04,Independence Day
+121,2012-09-03,Labor Day
+122,2012-10-08,Columbus Day
+123,2012-11-11,Veterans Day
+124,2012-11-12,Veterans Day (Observed)
+125,2012-11-22,Thanksgiving
+126,2012-12-25,Christmas Day
+127,2012-06-05,Diamond Jubilee of Elizabeth II
+128,2012-01-01,New Year's Day
+129,2012-01-02,"New Year Holiday [Scotland], New Year's Day (Observed)"
+130,2012-01-03,New Year Holiday [Scotland] (Observed)
+131,2012-03-17,St. Patrick's Day [Northern Ireland]
+132,2012-03-19,St. Patrick's Day [Northern Ireland] (Observed)
+133,2012-07-12,Battle of the Boyne [Northern Ireland]
+134,2012-08-06,Summer Bank Holiday [Scotland]
+135,2012-11-30,St. Andrew's Day [Scotland]
+136,2012-12-25,Christmas Day
+137,2012-04-06,Good Friday
+138,2012-04-09,Easter Monday [England/Wales/Northern Ireland]
+139,2012-05-07,May Day
+140,2012-06-04,Spring Bank Holiday
+141,2012-08-27,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+142,2012-12-26,Boxing Day
+143,2012-01-01,Jour de l'an
+144,2012-05-01,Fête du Travail
+145,2012-05-08,Armistice 1945
+146,2012-07-14,Fête nationale
+147,2012-11-11,Armistice 1918
+148,2012-04-09,Lundi de Pâques
+149,2012-05-28,Lundi de Pentecôte
+150,2012-05-17,Ascension
+151,2012-08-15,Assomption
+152,2012-11-01,Toussaint
+153,2012-12-25,Noël
+154,2013-01-01,New Year's Day
+155,2013-01-21,Martin Luther King Jr. Day
+156,2013-02-18,Washington's Birthday
+157,2013-05-27,Memorial Day
+158,2013-07-04,Independence Day
+159,2013-09-02,Labor Day
+160,2013-10-14,Columbus Day
+161,2013-11-11,Veterans Day
+162,2013-11-28,Thanksgiving
+163,2013-12-25,Christmas Day
+164,2013-01-01,New Year's Day
+165,2013-01-02,New Year Holiday [Scotland]
+166,2013-03-17,St. Patrick's Day [Northern Ireland]
+167,2013-03-18,St. Patrick's Day [Northern Ireland] (Observed)
+168,2013-07-12,Battle of the Boyne [Northern Ireland]
+169,2013-08-05,Summer Bank Holiday [Scotland]
+170,2013-11-30,St. Andrew's Day [Scotland]
+171,2013-12-25,Christmas Day
+172,2013-03-29,Good Friday
+173,2013-04-01,Easter Monday [England/Wales/Northern Ireland]
+174,2013-05-06,May Day
+175,2013-05-27,Spring Bank Holiday
+176,2013-08-26,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+177,2013-12-26,Boxing Day
+178,2013-01-01,Jour de l'an
+179,2013-05-01,Fête du Travail
+180,2013-05-08,Armistice 1945
+181,2013-07-14,Fête nationale
+182,2013-11-11,Armistice 1918
+183,2013-04-01,Lundi de Pâques
+184,2013-05-20,Lundi de Pentecôte
+185,2013-05-09,Ascension
+186,2013-08-15,Assomption
+187,2013-11-01,Toussaint
+188,2013-12-25,Noël
+189,2014-01-01,New Year's Day
+190,2014-01-20,Martin Luther King Jr. Day
+191,2014-02-17,Washington's Birthday
+192,2014-05-26,Memorial Day
+193,2014-07-04,Independence Day
+194,2014-09-01,Labor Day
+195,2014-10-13,Columbus Day
+196,2014-11-11,Veterans Day
+197,2014-11-27,Thanksgiving
+198,2014-12-25,Christmas Day
+199,2014-01-01,New Year's Day
+200,2014-01-02,New Year Holiday [Scotland]
+201,2014-03-17,St. Patrick's Day [Northern Ireland]
+202,2014-07-12,Battle of the Boyne [Northern Ireland]
+203,2014-08-04,Summer Bank Holiday [Scotland]
+204,2014-11-30,St. Andrew's Day [Scotland]
+205,2014-12-25,Christmas Day
+206,2014-04-18,Good Friday
+207,2014-04-21,Easter Monday [England/Wales/Northern Ireland]
+208,2014-05-05,May Day
+209,2014-05-26,Spring Bank Holiday
+210,2014-08-25,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+211,2014-12-26,Boxing Day
+212,2014-01-01,Jour de l'an
+213,2014-05-01,Fête du Travail
+214,2014-05-08,Armistice 1945
+215,2014-07-14,Fête nationale
+216,2014-11-11,Armistice 1918
+217,2014-04-21,Lundi de Pâques
+218,2014-06-09,Lundi de Pentecôte
+219,2014-05-29,Ascension
+220,2014-08-15,Assomption
+221,2014-11-01,Toussaint
+222,2014-12-25,Noël
+223,2015-01-01,New Year's Day
+224,2015-01-19,Martin Luther King Jr. Day
+225,2015-02-16,Washington's Birthday
+226,2015-05-25,Memorial Day
+227,2015-07-04,Independence Day
+228,2015-07-03,Independence Day (Observed)
+229,2015-09-07,Labor Day
+230,2015-10-12,Columbus Day
+231,2015-11-11,Veterans Day
+232,2015-11-26,Thanksgiving
+233,2015-12-25,Christmas Day
+234,2015-01-01,New Year's Day
+235,2015-01-02,New Year Holiday [Scotland]
+236,2015-03-17,St. Patrick's Day [Northern Ireland]
+237,2015-07-12,Battle of the Boyne [Northern Ireland]
+238,2015-08-03,Summer Bank Holiday [Scotland]
+239,2015-11-30,St. Andrew's Day [Scotland]
+240,2015-12-25,Christmas Day
+241,2015-04-03,Good Friday
+242,2015-04-06,Easter Monday [England/Wales/Northern Ireland]
+243,2015-05-04,May Day
+244,2015-05-25,Spring Bank Holiday
+245,2015-08-31,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+246,2015-12-26,Boxing Day
+247,2015-12-28,Boxing Day (Observed)
+248,2015-01-01,Jour de l'an
+249,2015-05-01,Fête du Travail
+250,2015-05-08,Armistice 1945
+251,2015-07-14,Fête nationale
+252,2015-11-11,Armistice 1918
+253,2015-04-06,Lundi de Pâques
+254,2015-05-25,Lundi de Pentecôte
+255,2015-05-14,Ascension
+256,2015-08-15,Assomption
+257,2015-11-01,Toussaint
+258,2015-12-25,Noël
+259,2016-01-01,New Year's Day
+260,2016-01-18,Martin Luther King Jr. Day
+261,2016-02-15,Washington's Birthday
+262,2016-05-30,Memorial Day
+263,2016-07-04,Independence Day
+264,2016-09-05,Labor Day
+265,2016-10-10,Columbus Day
+266,2016-11-11,Veterans Day
+267,2016-11-24,Thanksgiving
+268,2016-12-25,Christmas Day
+269,2016-12-26,Christmas Day (Observed)
+270,2016-01-01,New Year's Day
+271,2016-01-02,New Year Holiday [Scotland]
+272,2016-01-04,New Year Holiday [Scotland] (Observed)
+273,2016-03-17,St. Patrick's Day [Northern Ireland]
+274,2016-07-12,Battle of the Boyne [Northern Ireland]
+275,2016-08-01,Summer Bank Holiday [Scotland]
+276,2016-11-30,St. Andrew's Day [Scotland]
+277,2016-12-25,Christmas Day
+278,2016-12-27,Christmas Day (Observed)
+279,2016-03-25,Good Friday
+280,2016-03-28,Easter Monday [England/Wales/Northern Ireland]
+281,2016-05-02,May Day
+282,2016-05-30,Spring Bank Holiday
+283,2016-08-29,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+284,2016-12-26,Boxing Day
+285,2016-01-01,Jour de l'an
+286,2016-05-01,Fête du Travail
+287,2016-05-08,Armistice 1945
+288,2016-07-14,Fête nationale
+289,2016-11-11,Armistice 1918
+290,2016-03-28,Lundi de Pâques
+291,2016-05-16,Lundi de Pentecôte
+292,2016-05-05,Ascension
+293,2016-08-15,Assomption
+294,2016-11-01,Toussaint
+295,2016-12-25,Noël
+296,2017-01-01,New Year's Day
+297,2017-01-02,New Year's Day (Observed)
+298,2017-01-16,Martin Luther King Jr. Day
+299,2017-02-20,Washington's Birthday
+300,2017-05-29,Memorial Day
+301,2017-07-04,Independence Day
+302,2017-09-04,Labor Day
+303,2017-10-09,Columbus Day
+304,2017-11-11,Veterans Day
+305,2017-11-10,Veterans Day (Observed)
+306,2017-11-23,Thanksgiving
+307,2017-12-25,Christmas Day
+308,2017-01-01,New Year's Day
+309,2017-01-02,"New Year Holiday [Scotland], New Year's Day (Observed)"
+310,2017-01-03,New Year Holiday [Scotland] (Observed)
+311,2017-03-17,St. Patrick's Day [Northern Ireland]
+312,2017-07-12,Battle of the Boyne [Northern Ireland]
+313,2017-08-07,Summer Bank Holiday [Scotland]
+314,2017-11-30,St. Andrew's Day [Scotland]
+315,2017-12-25,Christmas Day
+316,2017-04-14,Good Friday
+317,2017-04-17,Easter Monday [England/Wales/Northern Ireland]
+318,2017-05-01,May Day
+319,2017-05-29,Spring Bank Holiday
+320,2017-08-28,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+321,2017-12-26,Boxing Day
+322,2017-01-01,Jour de l'an
+323,2017-05-01,Fête du Travail
+324,2017-05-08,Armistice 1945
+325,2017-07-14,Fête nationale
+326,2017-11-11,Armistice 1918
+327,2017-04-17,Lundi de Pâques
+328,2017-06-05,Lundi de Pentecôte
+329,2017-05-25,Ascension
+330,2017-08-15,Assomption
+331,2017-11-01,Toussaint
+332,2017-12-25,Noël
+333,2018-01-01,New Year's Day
+334,2018-01-15,Martin Luther King Jr. Day
+335,2018-02-19,Washington's Birthday
+336,2018-05-28,Memorial Day
+337,2018-07-04,Independence Day
+338,2018-09-03,Labor Day
+339,2018-10-08,Columbus Day
+340,2018-11-11,Veterans Day
+341,2018-11-12,Veterans Day (Observed)
+342,2018-11-22,Thanksgiving
+343,2018-12-25,Christmas Day
+344,2018-01-01,New Year's Day
+345,2018-01-02,New Year Holiday [Scotland]
+346,2018-03-17,St. Patrick's Day [Northern Ireland]
+347,2018-03-19,St. Patrick's Day [Northern Ireland] (Observed)
+348,2018-07-12,Battle of the Boyne [Northern Ireland]
+349,2018-08-06,Summer Bank Holiday [Scotland]
+350,2018-11-30,St. Andrew's Day [Scotland]
+351,2018-12-25,Christmas Day
+352,2018-03-30,Good Friday
+353,2018-04-02,Easter Monday [England/Wales/Northern Ireland]
+354,2018-05-07,May Day
+355,2018-05-28,Spring Bank Holiday
+356,2018-08-27,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+357,2018-12-26,Boxing Day
+358,2018-01-01,Jour de l'an
+359,2018-05-01,Fête du Travail
+360,2018-05-08,Armistice 1945
+361,2018-07-14,Fête nationale
+362,2018-11-11,Armistice 1918
+363,2018-04-02,Lundi de Pâques
+364,2018-05-21,Lundi de Pentecôte
+365,2018-05-10,Ascension
+366,2018-08-15,Assomption
+367,2018-11-01,Toussaint
+368,2018-12-25,Noël
+369,2019-01-01,New Year's Day
+370,2019-01-21,Martin Luther King Jr. Day
+371,2019-02-18,Washington's Birthday
+372,2019-05-27,Memorial Day
+373,2019-07-04,Independence Day
+374,2019-09-02,Labor Day
+375,2019-10-14,Columbus Day
+376,2019-11-11,Veterans Day
+377,2019-11-28,Thanksgiving
+378,2019-12-25,Christmas Day
+379,2019-01-01,New Year's Day
+380,2019-01-02,New Year Holiday [Scotland]
+381,2019-03-17,St. Patrick's Day [Northern Ireland]
+382,2019-03-18,St. Patrick's Day [Northern Ireland] (Observed)
+383,2019-07-12,Battle of the Boyne [Northern Ireland]
+384,2019-08-05,Summer Bank Holiday [Scotland]
+385,2019-11-30,St. Andrew's Day [Scotland]
+386,2019-12-25,Christmas Day
+387,2019-04-19,Good Friday
+388,2019-04-22,Easter Monday [England/Wales/Northern Ireland]
+389,2019-05-06,May Day
+390,2019-05-27,Spring Bank Holiday
+391,2019-08-26,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+392,2019-12-26,Boxing Day
+393,2019-01-01,Jour de l'an
+394,2019-05-01,Fête du Travail
+395,2019-05-08,Armistice 1945
+396,2019-07-14,Fête nationale
+397,2019-11-11,Armistice 1918
+398,2019-04-22,Lundi de Pâques
+399,2019-06-10,Lundi de Pentecôte
+400,2019-05-30,Ascension
+401,2019-08-15,Assomption
+402,2019-11-01,Toussaint
+403,2019-12-25,Noël
+404,2020-01-01,New Year's Day
+405,2020-01-20,Martin Luther King Jr. Day
+406,2020-02-17,Washington's Birthday
+407,2020-05-25,Memorial Day
+408,2020-07-04,Independence Day
+409,2020-07-03,Independence Day (Observed)
+410,2020-09-07,Labor Day
+411,2020-10-12,Columbus Day
+412,2020-11-11,Veterans Day
+413,2020-11-26,Thanksgiving
+414,2020-12-25,Christmas Day
+415,2020-01-01,New Year's Day
+416,2020-01-02,New Year Holiday [Scotland]
+417,2020-03-17,St. Patrick's Day [Northern Ireland]
+418,2020-07-12,Battle of the Boyne [Northern Ireland]
+419,2020-08-03,Summer Bank Holiday [Scotland]
+420,2020-11-30,St. Andrew's Day [Scotland]
+421,2020-12-25,Christmas Day
+422,2020-04-10,Good Friday
+423,2020-04-13,Easter Monday [England/Wales/Northern Ireland]
+424,2020-05-08,May Day
+425,2020-05-25,Spring Bank Holiday
+426,2020-08-31,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+427,2020-12-26,Boxing Day
+428,2020-12-28,Boxing Day (Observed)
+429,2020-01-01,Jour de l'an
+430,2020-05-01,Fête du Travail
+431,2020-05-08,Armistice 1945
+432,2020-07-14,Fête nationale
+433,2020-11-11,Armistice 1918
+434,2020-04-13,Lundi de Pâques
+435,2020-06-01,Lundi de Pentecôte
+436,2020-05-21,Ascension
+437,2020-08-15,Assomption
+438,2020-11-01,Toussaint
+439,2020-12-25,Noël
+440,2021-01-01,New Year's Day
+441,2021-12-31,New Year's Day (Observed)
+442,2021-01-18,Martin Luther King Jr. Day
+443,2021-02-15,Washington's Birthday
+444,2021-05-31,Memorial Day
+445,2021-06-19,Juneteenth National Independence Day
+446,2021-06-18,Juneteenth National Independence Day (Observed)
+447,2021-07-04,Independence Day
+448,2021-07-05,Independence Day (Observed)
+449,2021-09-06,Labor Day
+450,2021-10-11,Columbus Day
+451,2021-11-11,Veterans Day
+452,2021-11-25,Thanksgiving
+453,2021-12-25,Christmas Day
+454,2021-12-24,Christmas Day (Observed)
+455,2021-01-01,New Year's Day
+456,2021-01-02,New Year Holiday [Scotland]
+457,2021-01-04,New Year Holiday [Scotland] (Observed)
+458,2021-03-17,St. Patrick's Day [Northern Ireland]
+459,2021-07-12,Battle of the Boyne [Northern Ireland]
+460,2021-08-02,Summer Bank Holiday [Scotland]
+461,2021-11-30,St. Andrew's Day [Scotland]
+462,2021-12-25,Christmas Day
+463,2021-12-27,Christmas Day (Observed)
+464,2021-04-02,Good Friday
+465,2021-04-05,Easter Monday [England/Wales/Northern Ireland]
+466,2021-05-03,May Day
+467,2021-05-31,Spring Bank Holiday
+468,2021-08-30,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+469,2021-12-26,Boxing Day
+470,2021-12-28,Boxing Day (Observed)
+471,2021-01-01,Jour de l'an
+472,2021-05-01,Fête du Travail
+473,2021-05-08,Armistice 1945
+474,2021-07-14,Fête nationale
+475,2021-11-11,Armistice 1918
+476,2021-04-05,Lundi de Pâques
+477,2021-05-24,Lundi de Pentecôte
+478,2021-05-13,Ascension
+479,2021-08-15,Assomption
+480,2021-11-01,Toussaint
+481,2021-12-25,Noël
+482,2022-01-01,New Year's Day
+483,2022-01-17,Martin Luther King Jr. Day
+484,2022-02-21,Washington's Birthday
+485,2022-05-30,Memorial Day
+486,2022-06-19,Juneteenth National Independence Day
+487,2022-06-20,Juneteenth National Independence Day (Observed)
+488,2022-07-04,Independence Day
+489,2022-09-05,Labor Day
+490,2022-10-10,Columbus Day
+491,2022-11-11,Veterans Day
+492,2022-11-24,Thanksgiving
+493,2022-12-25,Christmas Day
+494,2022-12-26,Christmas Day (Observed)
+495,2022-06-03,Platinum Jubilee of Elizabeth II
+496,2022-09-19,State Funeral of Queen Elizabeth II
+497,2022-01-01,New Year's Day
+498,2022-01-03,New Year's Day (Observed)
+499,2022-01-02,New Year Holiday [Scotland]
+500,2022-01-04,New Year Holiday [Scotland] (Observed)
+501,2022-03-17,St. Patrick's Day [Northern Ireland]
+502,2022-07-12,Battle of the Boyne [Northern Ireland]
+503,2022-08-01,Summer Bank Holiday [Scotland]
+504,2022-11-30,St. Andrew's Day [Scotland]
+505,2022-12-25,Christmas Day
+506,2022-12-27,Christmas Day (Observed)
+507,2022-04-15,Good Friday
+508,2022-04-18,Easter Monday [England/Wales/Northern Ireland]
+509,2022-05-02,May Day
+510,2022-06-02,Spring Bank Holiday
+511,2022-08-29,Late Summer Bank Holiday [England/Wales/Northern Ireland]
+512,2022-12-26,Boxing Day
+513,2022-01-01,Jour de l'an
+514,2022-05-01,Fête du Travail
+515,2022-05-08,Armistice 1945
+516,2022-07-14,Fête nationale
+517,2022-11-11,Armistice 1918
+518,2022-04-18,Lundi de Pâques
+519,2022-06-06,Lundi de Pentecôte
+520,2022-05-26,Ascension
+521,2022-08-15,Assomption
+522,2022-11-01,Toussaint
+523,2022-12-25,Noël
