@@ -50,3 +50,14 @@ df = pd.DataFrame(holiday_list)
 
 # save dataframe to csv file
 df.to_csv('/Users/albamolina/files/python_final/ex1_holidays.csv')
+
+
+# read file
+
+df = pd.read_csv('ex1_holidays.csv')
+
+df.rename(columns = {'Unnamed: 0': 'Counter', '0': 'Date', '1': 'Holiday Name'}, inplace=True) #old name, new name inplace=True -> want ocur in place
+print(df.head)
+print('columns: ', df.columns)
+
+# print('here: ', df)
