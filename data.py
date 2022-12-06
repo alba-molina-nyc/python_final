@@ -18,3 +18,20 @@ for country in countries:
 for day in sorted(holidays.US(years=2023).items()):
     print(day)
 
+
+# US Holidays - 2021 - CA
+for day, name in sorted(holidays.US(years=2023, state='CA').items()):
+    print(day, name)
+
+
+# check if public holiday or not
+us_holidays = holidays.UnitedStates()
+uk_holidays = holidays.UnitedKingdom()
+fr_holidays = holidays.France()
+print('01-01-2022' in us_holidays)
+print('01-01-2022' in uk_holidays)
+print('01-01-2022' in fr_holidays)
+
+for country in countries:
+    countries.country
+    # print(type(country), 'country-type')
